@@ -1,5 +1,5 @@
 # Spacestation location Web App
-This project fetches the real-time location of the International Space Station using the Open Notify API and displays its latitude, longitude, and the converted readable date and time.
+This project fetches the real-time location of the International Space Station using the Open Notify API and displays its latitude, longitude, readable date and time.
 
 ## Project Overview
 The application provides a simple interface that fetches the current location of the International Space Station through an API call and displays the coordinates and the corresponding converted date and time of its position.
